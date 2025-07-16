@@ -1,7 +1,4 @@
 ## Test Me
 
-This project can help you study for your next exam, assignemnt, test, or any form of quiz. 
-Reading through material is most of the times not good enough and it doesnt stick as good.
-With this website you are able to import all the files you need to know and it will create
-a custom quiz for you. You can decide the difficulty and the type of questions.
 
+Test Me helps you prepare for your next exam, assignment, test, or any quiz. Simply reading through study material often isn’t enough to make it stick. With this website, you can upload documents, PDFs, websites, or any other files you need to study — and automatically generate custom quizzes based on that content.
